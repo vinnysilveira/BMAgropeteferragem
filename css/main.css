@@ -1,7 +1,9 @@
 body{
     display: flex;
     flex-direction: column;
-    background: url('../img/logo.png');
+    background: url('../img/fundo.avif');
+    background-repeat: repeat;
+    background-position: center;
     background-attachment: fixed;
 }
 
